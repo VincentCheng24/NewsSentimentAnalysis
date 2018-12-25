@@ -1,4 +1,4 @@
-This code is borrowed from https://github.com/Codelegant92/SentimentAnalysis-chinese.
+This implementation is based on CodeLegant92's work (https://github.com/Codelegant92/SentimentAnalysis-chinese).
 We utilize his implmentation on assessment to assess the reviews we abtain from news.
 
 The doc from Codelegant92
